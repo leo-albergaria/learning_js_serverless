@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/135930872-d816c1c9-2db6-4872-9cba-ec269e820b60.png" align="left" height="150px" width="150px">
+    <h1># Infraestrutura Como Código com Serverless Framework na AWS</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Chegou a sua hora de dar os seus primeiros passos na Nuvem da AWS! Para isso, o expert apresenta os conceitos de Serverless e Infraestrutura como Código (IaC) em uma abordagem totalmente prática usando o Serverless Framework.. Sendo assim, você é desafiado a replicar a solução implementada pelo expert ou reproduzi-la na linguagem de programação que preferir. Booora!?
     </p>
 </p>      
 
